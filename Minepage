@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Minecraft Page</title>
+    <title>Welcome To hack Central</title>
     <style>
         body {
             background-color: #000;
@@ -28,21 +28,21 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to my Minecraft Page!</h1>
+    <h1>Welcome to hack central, the future of hacking!</h1>
     
     <img src="minecraft-logo.png" alt="Minecraft Logo">
     
-    <p>Minecraft is a popular sandbox game where you can build and explore virtual worlds.</p>
+    <p>Hack centrals goal is to eliminate censorship at schools around the globe.</p>
     
-    <p>Here are some key features of Minecraft:</p>
+    <Some things we provide are:</p>
     
     <ul>
-        <li>Endless possibilities for building and creativity</li>
-        <li>Survival mode with monsters and challenges</li>
-        <li>Multiplayer mode to play with friends</li>
+        <li>Bookmarklets</li>
+        <li>Proxies: AKA unblockers</li>
+        <li>Game websites</li>
         <li>Regular updates with new content and features</li>
     </ul>
     
-    <p>Ready to start your Minecraft adventure? Download the game <a href="https://www.minecraft.net/">here</a>!</p>
+    <p>Ready to start? <a href="https://www.minecraft.net/">here</a>!</p>
 </body>
 </html>
